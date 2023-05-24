@@ -1,1 +1,1 @@
-# Alogorithm_BOJ
+# [BOJ] Alogorithm
